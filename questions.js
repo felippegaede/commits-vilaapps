@@ -141,7 +141,6 @@ module.exports = {
         type: 'input',
         name: 'footer',
         message: messages.footer,
-        when: isNotWip,
         validate(value) {
           if (value.length == 0) {
             return `A tarefa é obrigatória`;

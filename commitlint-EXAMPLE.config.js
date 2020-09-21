@@ -22,6 +22,7 @@ module.exports = {
 			[
 				'NOVO',
 				'CORRECAO',
+				'BIBLIOTECA',
 				'DOCS',
 				'ESTILO',
 				'REFATORACAO',
